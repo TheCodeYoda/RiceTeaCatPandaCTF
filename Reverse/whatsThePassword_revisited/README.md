@@ -4,7 +4,7 @@ After locating the main function(offset:0x7c0) the code was displayed in this fa
 ![mainfxn](https://user-images.githubusercontent.com/46860321/73137023-12927f80-407a-11ea-864a-868848a6af02.png)
 
 
-Analysing the main function we can see that it performs some kind of xor operation on our input and compares it with DAT_00301020 if we can reverse that particular operation and apply it on DAT_00301020 we can get the password. Observing the code we observe that it is taking character at &DAT_00301020 i steps of 50.
+Analysing the main function we can see that it performs some kind of xor operation on our input and compares it with DAT_00301020 if we can reverse that particular operation and apply it on DAT_00301020 we can get the password. Observing the code we see that its taking character at &DAT_00301020 i steps of 50.
 
 ![offsets](https://user-images.githubusercontent.com/46860321/73137028-16260680-407a-11ea-8b39-a6081b873cde.png)
 

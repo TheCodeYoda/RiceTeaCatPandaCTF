@@ -8,7 +8,7 @@ Analysing the main function we can see that it performs some kind of xor operati
 
 ![offsets](https://user-images.githubusercontent.com/46860321/73137028-16260680-407a-11ea-8b39-a6081b873cde.png)
 
-first hex byte is 0x3a after jumping 50 addresses we get the next hexbyte.The array of hexbytes are specified in the python script.The python script also has the details of the reverse operation to be performed.After running the python script the password we get is:
+first hex byte is 0x3a after jumping 50 addresses we get the next hexbyte.The array of hexbytes is specified in the python script.The python script also has the details of the reverse operation to be performed.After running the python script the password we get is:
 
 "50m371m32_5Pr34D_0U7"
 

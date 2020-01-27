@@ -1,0 +1,3 @@
+This Challenge was under the forensics category for 75 points.This was a pretty basic challenge.The challenge provided us with an mp3 song.It was a famous EDM song.Opening it with AUdacity and using spectrogam view was not helpful.The next point of attack was to run strings on it There was a bunch of text present. Running "strings" and piping it with "grep rtcp{" displays the flag.
+
+"rtcp{j^cks0n_3ats_r1c3}"

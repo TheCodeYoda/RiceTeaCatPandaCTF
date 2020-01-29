@@ -4,6 +4,8 @@ A 25 pointer. Pretty basic one but very common in CTFs. The description says
 
 The description is of no use to solve the puz. The name has it all! Robots hinting robots.txt of the site. Checking https://riceteacatpanda.wtf/robots.txt, we find 
 
+![](https://github.com/TheCodeYoda/RiceTeaCatPandaCTF/blob/master/web/Robots.%20Yeah,%20I%20know,%20pretty%20obvious./Screenshot%20from%202020-01-29%2015-23-23.png)
+
 Checking /flag (https://riceteacatpanda.wtf/flag), a YT video which doesn't have anything to do with the puz. 
 Checking /robot-nurses (https://riceteacatpanda.wtf/robot-nurses), we find the flag!
 

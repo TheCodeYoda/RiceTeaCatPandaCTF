@@ -50,6 +50,8 @@ and similarly the other entry.
 The hint gives you link to the website, https://riceteacatpanda.wtf/onlyrealgamers, it has a timer running which means until the end of the event, you wont be able to get the flag. 
 On viewing the source of the page (view-source:https://riceteacatpanda.wtf/onlyrealgamers), under the script tag, you find a js code. I personally use https://html-cleaner.com/js/ to get scripts indented properly. The script says 
 
+![](https://github.com/TheCodeYoda/RiceTeaCatPandaCTF/blob/master/web/No%20Sleep/Screenshot%20from%202020-01-29%2016-10-55.png)
+
     var _0x1d8e = ['gamerfuel=Jan\x2027,\x208020\x2004:20:00', 'Jan\x2027,\x208020\x2004:20:00', 'getTime', 'exec', 'floor', 'getElementById', 'gamer\x20timer', 'AES', 'decrypt', 'U2FsdGVkX18kRm6FDkRVQfVuNPTxyOnJzpu8QnI/9UKoCXp6hQcley11nBnLIItj', 'ok\x20boomer', 'innerHTML', 'Utf8', 'cookie']; (function(_0x29eed8,
     _0x4bb4aa) {
         var _0x47e29c = function(_0x2d3fd2) {

@@ -44,6 +44,6 @@ from   ‘gamerfuel=Jan\x2027,\x208020\x2004:20:00’.
 and similarly the other entry.
 
  It gives you the flag. 
-
+![](https://github.com/TheCodeYoda/RiceTeaCatPandaCTF/blob/master/web/No%20Sleep/Screenshot%20from%202020-01-29%2015-52-07.png)
 **rtcp{w0w_d1d_u_st4y_up?}**
 
